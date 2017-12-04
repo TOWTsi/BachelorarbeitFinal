@@ -1,0 +1,22 @@
+(15:18:05) Vertex Inner vertex 1 (2) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 3 (2) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Output (2) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 3 (0) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 1 (1) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 2 (2) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 2 (1) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Input (0) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Input (1) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Output (1) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 2 (0) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 2 (3) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 3 (3) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 1 (0) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 1 (3) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Output (3) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Input (2) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Inner vertex 3 (1) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Input (3) assigned to instance localhost/127.0.0.1
+(15:18:05) Vertex Output (0) assigned to instance localhost/127.0.0.1
+(16:08:00) InputTasks: 1InnerTasks: 1OutputTasks: 1Tasks to Kill: [0, 1]
+(16:08:42) InputTasks: 1 InnerTasks: 1 OutputTasks: 1 Tasks to Kill: [0, 1]

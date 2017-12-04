@@ -1,0 +1,15 @@
+*.swp
+logs.zip
+.idea
+.idea/*
+*.jar
+target
+.classpath
+.project
+.settings
+*.class
+filter.properties
+tmp/*
+pact/pact-tests/tmp/*
+*.patch
+bin/
